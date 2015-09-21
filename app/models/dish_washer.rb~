@@ -1,2 +1,0 @@
-class DishWasher < ActiveRecord::Base
-end
